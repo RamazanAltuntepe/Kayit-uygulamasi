@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\Ödev\NTP\VizeFinal\VizeFinal\bin\Debug\VizeFinal.exe.config
+C:\Users\Dell\Desktop\Ödev\NTP\VizeFinal\VizeFinal\bin\Debug\VizeFinal.exe
+C:\Users\Dell\Desktop\Ödev\NTP\VizeFinal\VizeFinal\bin\Debug\VizeFinal.pdb
+C:\Users\Dell\Desktop\Ödev\NTP\VizeFinal\VizeFinal\obj\Debug\VizeFinal.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Ödev\NTP\VizeFinal\VizeFinal\obj\Debug\VizeFinal.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Ödev\NTP\VizeFinal\VizeFinal\obj\Debug\VizeFinal.exe
+C:\Users\Dell\Desktop\Ödev\NTP\VizeFinal\VizeFinal\obj\Debug\VizeFinal.pdb
